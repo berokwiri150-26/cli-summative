@@ -1,0 +1,10 @@
+[
+    {
+        "project_id": 101,
+        "project_name": "Portfolio Website",
+        "description": "Personal Website",
+        "owner_id": 1,
+        "task_ids": [1001,1002],
+        "status": "In Progress"
+    }
+]
